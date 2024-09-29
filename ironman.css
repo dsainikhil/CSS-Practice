@@ -1,0 +1,12 @@
+h1{
+    font-weight: 900;
+    text-decoration: underline;
+}
+p{
+    font-weight: 200;
+    line-height: 1.2;
+}
+h2{
+    font-weight: 100;
+    text-decoration:wavy red overline;
+}
